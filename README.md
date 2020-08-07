@@ -16,23 +16,25 @@
 
 ### <img src="https://img.icons8.com/nolan/64/wrench.png" width="25"/> Technology and Tools
 
+![image](https://img.icons8.com/color/48/000000/html-5.png)
+![image](https://img.icons8.com/color/48/000000/css3.png)
+![image](https://img.icons8.com/color/48/000000/bootstrap.png)
+![image](https://img.icons8.com/color/48/000000/javascript.png)
+![image](https://img.icons8.com/color/48/000000/python.png)
+![image](https://img.icons8.com/color/48/000000/django.png)
+![image](https://img.icons8.com/officel/40/000000/php-logo.png)
+![image](https://img.icons8.com/color/48/000000/git.png)
+![image](https://img.icons8.com/fluent/48/000000/github.png)
+![image](https://img.icons8.com/fluent/48/000000/github.png)
+![image](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)
+![image](https://img.icons8.com/color/48/000000/mongodb.png)
+![image](https://img.icons8.com/office/48/000000/database.png)
+![image](https://img.icons8.com/color/48/000000/linux-mint.png)
+![image](https://img.icons8.com/color/48/000000/ubuntu.png)
+![image](https://img.icons8.com/color/40/000000/pycharm.png)
+![image](https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png)
 
-[<img align="left" alt='html' src="https://img.icons8.com/color/48/000000/html-5.png"/>]
-[<img align="left" alt='css' src="https://img.icons8.com/color/48/000000/css3.png"/>]
-[<img align="left" alt='bootstrap' src="https://img.icons8.com/color/48/000000/bootstrap.png"/>]
-[<img align="left" alt='js' src="https://img.icons8.com/color/48/000000/javascript.png"/>]
-[<img align="left" alt='python' src="https://img.icons8.com/color/48/000000/python.png"/>]
-[<img align="left" alt='django' src="https://img.icons8.com/color/48/000000/django.png"/>]
-[<img align="left" alt='php' src="https://img.icons8.com/officel/40/000000/php-logo.png"/>]
-[<img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>]
-[<img align="left" src="https://img.icons8.com/fluent/48/000000/github.png"/>]
-[<img align="left" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>]
-[<img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>]
-[<img align="left" src="https://img.icons8.com/office/48/000000/database.png"/>]
-[<img align="left" src="https://img.icons8.com/color/48/000000/linux-mint.png"/>]
-[<img align="left" src="https://img.icons8.com/color/48/000000/ubuntu.png"/>]
-[<img align="left" src="https://img.icons8.com/color/40/000000/pycharm.png"/>]
-[<img align="left" src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png"/>]
+
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkb9878)](https://github.com/rkb9878)
