@@ -29,10 +29,10 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" src="https://img.icons8.com/office/48/000000/database.png"/>
 <br>
-<img align="left" src="https://img.icons8.com/color/48/000000/linux-mint.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
+<img align="right" src="https://img.icons8.com/color/48/000000/linux-mint.png"/>
+<img align="right" src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
 <br>
-<img align="left" src="https://img.icons8.com/color/40/000000/pycharm.png"/>
-<img align="left" src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png"/>
+<img align="right" src="https://img.icons8.com/color/40/000000/pycharm.png"/>
+<img align="right" src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png"/>
 
 
