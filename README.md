@@ -25,7 +25,6 @@
 ![image](https://img.icons8.com/officel/40/000000/php-logo.png)
 ![image](https://img.icons8.com/color/48/000000/git.png)
 ![image](https://img.icons8.com/fluent/48/000000/github.png)
-![image](https://img.icons8.com/fluent/48/000000/github.png)
 ![image](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)
 ![image](https://img.icons8.com/color/48/000000/mongodb.png)
 ![image](https://img.icons8.com/office/48/000000/database.png)
@@ -37,4 +36,4 @@
 
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkb9878)](https://github.com/rkb9878)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkb9878&theme=tokyonight)](https://github.com/rkb9878)
