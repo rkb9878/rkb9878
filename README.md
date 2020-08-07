@@ -29,10 +29,8 @@
 [<img align="left" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>][webdevplaylist]
 [<img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>][webdevplaylist]
 [<img align="left" src="https://img.icons8.com/office/48/000000/database.png"/>][webdevplaylist]
----
 [<img align="left" src="https://img.icons8.com/color/48/000000/linux-mint.png"/>][webdevplaylist]
 [<img align="left" src="https://img.icons8.com/color/48/000000/ubuntu.png"/>][webdevplaylist]
----
 [<img align="left" src="https://img.icons8.com/color/40/000000/pycharm.png"/>][webdevplaylist]
 [<img align="left" src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png"/>][webdevplaylist]
 
