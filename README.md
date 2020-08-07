@@ -2,8 +2,8 @@
 
 
 ## I'm a Developer and Teacher.
-- I'm learning Angular.
-- I'm also learning postgresql
+- I'm learning Angular and postgresql.
+- I'm working on verous project on Django.
 - I always find new things to learn and imporve my self.
 
 
