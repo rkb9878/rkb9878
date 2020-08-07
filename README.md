@@ -28,9 +28,12 @@
 <img align="left" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" src="https://img.icons8.com/office/48/000000/database.png"/>
+---
 <img align="left" src="https://img.icons8.com/color/48/000000/linux-mint.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
+---
 <img align="left" src="https://img.icons8.com/color/40/000000/pycharm.png"/>
 <img align="left" src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png"/>
 
-
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkb9878)](https://github.com/rkb9878)
