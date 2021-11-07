@@ -2,7 +2,7 @@
 
 
 ## I'm a Developer and Teacher.
-- I'm learning React js.
+- I'm learning Nest js.
 - I'm working on verous project on Django.
 - I always find new things to learn and imporve my self.
 
