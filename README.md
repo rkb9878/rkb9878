@@ -22,6 +22,7 @@
 ![image](https://img.icons8.com/color/48/000000/javascript.png)
 ![image](https://img.icons8.com/color/48/000000/python.png)
 ![image](https://img.icons8.com/color/48/000000/django.png)
+![image](https://img.icons8.com/office/16/000000/react.png)
 ![image](https://img.icons8.com/officel/40/000000/php-logo.png)
 ![image](https://img.icons8.com/color/48/000000/git.png)
 ![image](https://img.icons8.com/fluent/48/000000/github.png)
@@ -32,6 +33,7 @@
 ![image](https://img.icons8.com/color/48/000000/ubuntu.png)
 ![image](https://img.icons8.com/color/40/000000/pycharm.png)
 ![image](https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png)
+
 
 
 
