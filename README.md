@@ -22,7 +22,7 @@
 ![image](https://img.icons8.com/color/48/000000/javascript.png)
 ![image](https://img.icons8.com/color/48/000000/python.png)
 ![image](https://img.icons8.com/color/48/000000/django.png)
-![image](https://img.icons8.com/office/160/000000/react.png)
+![image](https://img.icons8.com/office/80/000000/react.png)
 ![image](https://img.icons8.com/officel/40/000000/php-logo.png)
 ![image](https://img.icons8.com/color/48/000000/git.png)
 ![image](https://img.icons8.com/fluent/48/000000/github.png)
