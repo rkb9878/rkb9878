@@ -1,9 +1,9 @@
 ### I'm Rahul Kumar Bharti<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-## I'm a Developer and Teacher.
-- I'm learning Nest js.
-- I'm working on verous project on Django.
+## I'm a Developer.
+- Working with AWS Resource like: lamdba, stepfunction, SNS, SQS, DocumentDb, DynamoDb.
+- 2024 Goal to achive Advance teach.
 - I always find new things to learn and imporve my self.
 
 
@@ -22,7 +22,7 @@
 ![image](https://img.icons8.com/color/48/000000/javascript.png)
 ![image](https://img.icons8.com/color/48/000000/python.png)
 ![image](https://img.icons8.com/color/48/000000/django.png)
-![image](https://img.icons8.com/office/80/000000/react.png)
+![image](https://img.icons8.com/office/40/000000/react.png)
 ![image](https://img.icons8.com/officel/40/000000/php-logo.png)
 ![image](https://img.icons8.com/color/48/000000/git.png)
 ![image](https://img.icons8.com/fluent/48/000000/github.png)
