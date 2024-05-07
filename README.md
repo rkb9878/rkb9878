@@ -14,3 +14,6 @@ A seasoned IT professional with 4+ years of experience, I am a dedicated softwar
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### </> LeetCode
+![LeetCode Stats](https://leetcode.card.workers.dev/rkb9878?theme=dark&font=milonga&extension=null)
