@@ -1,7 +1,5 @@
 # 💫 About Me:
-1. Working with AWS Resource like: lamdba, stepfunction, SNS, SQS, DocumentDb, DynamoDb.
-2. 2024 Goal to achive Advance teach.
-3. I always find new things to learn and imporve my self.
+A seasoned IT professional with 4+ years of experience, I am a dedicated software developer specializing in Python, Django, AWS, and JavaScript. Known for delivering high-quality solutions in end-to-end development, and I’m now seeking a challenging role where I can apply my skills, contribute to impactful projects, and continue to grow professionally.
 
 
 ## 🌐 Socials:
