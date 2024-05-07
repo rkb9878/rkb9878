@@ -1,41 +1,16 @@
-### I'm Rahul Kumar Bharti<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# 💫 About Me:
+A seasoned IT professional with 4+ years of experience, I am a dedicated software developer specializing in Python, Django, AWS, and JavaScript. Known for delivering high-quality solutions in end-to-end development, and I’m now seeking a challenging role where I can apply my skills, contribute to impactful projects, and continue to grow professionally.
 
 
-## I'm a Developer.
-- Working with AWS Resource like: lamdba, stepfunction, SNS, SQS, DocumentDb, DynamoDb.
-- 2024 Goal to achive Advance teach.
-- I always find new things to learn and imporve my self.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-kumar-bharti/) 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rkb9878&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rkb9878&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rkb9878&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Contact Me.
-
-<a href="https://github.com/rkb9878"><img src="https://img.icons8.com/nolan/64/github.png" width='50px'/></a>
-<a href="https://www.linkedin.com/in/rahul-kumar-bharti/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" width='50'/></a>
-<a href="mailto: rkb9878@gmail.com"><img src="https://img.icons8.com/fluent/64/000000/gmail.png" width="50"/></a>
-<br>
-
-### <img src="https://img.icons8.com/nolan/64/wrench.png" width="25"/> Technology and Tools
-
-![image](https://img.icons8.com/color/48/000000/html-5.png)
-![image](https://img.icons8.com/color/48/000000/css3.png)
-![image](https://img.icons8.com/color/48/000000/bootstrap.png)
-![image](https://img.icons8.com/color/48/000000/javascript.png)
-![image](https://img.icons8.com/color/48/000000/python.png)
-![image](https://img.icons8.com/color/48/000000/django.png)
-![image](https://img.icons8.com/office/40/000000/react.png)
-![image](https://img.icons8.com/officel/40/000000/php-logo.png)
-![image](https://img.icons8.com/color/48/000000/git.png)
-![image](https://img.icons8.com/fluent/48/000000/github.png)
-![image](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)
-![image](https://img.icons8.com/color/48/000000/mongodb.png)
-![image](https://img.icons8.com/office/48/000000/database.png)
-![image](https://img.icons8.com/color/48/000000/linux-mint.png)
-![image](https://img.icons8.com/color/48/000000/ubuntu.png)
-![image](https://img.icons8.com/color/40/000000/pycharm.png)
-![image](https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png)
-
-
-
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkb9878&theme=tokyonight)](https://github.com/rkb9878)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
